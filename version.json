@@ -1,4 +1,6 @@
 {
-  "version": "0.0.1",
-  "apkUrl": "https://example.com/apks/myapp-1.0.5.apk"
+    "version": "0.0.1",
+    "versionCode": 1,
+    "apkUrl": "https://example.com/apks/myapp-1.0.5.apk",
+    "releaseNotes": "Initial release with basic features."
 }
